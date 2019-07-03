@@ -1,0 +1,41 @@
+http://c.biancheng.net/view/1109.html
+_Mast  孤傲苍狼
+Java8中的[方法引用]“双冒号”——走进Java Lambda(四)
+ *  TreeSet 排序  (自然排序   Comparable 对象 要实现接口 就是要实现 这个接口)
+	 *               定制排序   comparator  要自己写 排序 比较器      
+	 *                      
+	 *  TreeMap 排序  (自然排序   Comparable 对象 要实现接口 就是要实现 这个接口)
+	 *               定制排序   comparator  要自己写 排序 比较器             
+	 *  
+	 *  Collections.sort(List<T extends Comparable>)
+	 *  Collections.sort(List list,Comparator com)
+线程 properties static 关联jar包源码 Date  debug shiwu zidingyifanxingyichangmeiju hashcode dingshichaoshizhouqirenwu
+calendar
+ 红黑数原理
+代理(Proxy)
+1.分析一下JDK优化的逃逸分析和消除反射的实现原理？2.讲一下你理解的双亲委派制度 3.多线程是如何控制并发访问class？ 4.hashmap里的红黑数原理？ 5.redis的哨兵机制和使用场景，缓存雪崩的应对方式，redis布隆过滤器，缓存穿透怎么预防
+拦截器是基于java的反射机制的，而过滤器是基于函数回调。
+::
+数据结构
+使用Session防止表单重复提交  
+token
+文件列表树
+yibu
+初始化的三种方式
+自定义Tag标签
+获得类对象的几种方式的区别？
+内省set方法
+aspectj和aop
+<mvc:annotation-driven /> ？
+dispatcherServlet  / 拦截了所以情况 为什么还能访问静态资源?
+Converter
+注解适配器等等好几个处理器？
+关联查询 、输入映射和输出映射  springmvc异常处理器
+shellminglin
+安装包 编译 yum rpm  
+转换器 异常  实现接口 配置mvc文件？
+构建者模式
+spring mvc的测试
+普通打包 各种分页
+
+
