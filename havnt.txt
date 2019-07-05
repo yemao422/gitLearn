@@ -1,4 +1,4 @@
-http://c.biancheng.net/view/1109.html
+﻿http://c.biancheng.net/view/1109.html
 _Mast  孤傲苍狼
 Java8中的[方法引用]“双冒号”——走进Java Lambda(四)
  *  TreeSet 排序  (自然排序   Comparable 对象 要实现接口 就是要实现 这个接口)
@@ -37,5 +37,6 @@ shellminglin
 构建者模式
 spring mvc的测试
 普通打包 各种分页
+whtch redis集群设置
 
 
