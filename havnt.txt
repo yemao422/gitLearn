@@ -37,6 +37,8 @@ shellminglin
 构建者模式
 spring mvc的测试
 普通打包 各种分页
-whtch redis集群设置
+whtch redis集群设置  
+
+idea 的设置 springcloud 灰度发布
 
 
